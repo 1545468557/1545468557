@@ -1,109 +1,49 @@
-<h1 align="center">Hi, I'm zhouxiang 👋</h1>
-
-<p align="center">AI Builder | Exploring AI applications, interactive prototypes, and practical tools</p>
-
 <p align="center">
-  <a href="#projects">Selected Projects</a> ·
-  <a href="#toolbox">Tools &amp; Approach</a> ·
-  <a href="https://github.com/1545468557?tab=repositories">All Repositories</a>
+  <a href="#selected-projects">
+    <img src="./assets/profile-header.svg" width="100%" alt="zhouxiang AI Build Studio — building useful AI experiences, prototypes, and tools." />
+  </a>
 </p>
 
-<a href="#projects">
-  <img src="./assets/profile-header.svg" width="100%" alt="Ideas into things. Exploring AI interactions, prototypes, and reusable tools. View selected projects.">
-</a>
+<p align="center">
+  <sub>Open the build log: ideas, experiments, and selected projects.</sub>
+</p>
 
-I explore how to turn ideas into things people can actually try.
+## 👋 I turn AI ideas into things people can use
 
-From an AI-assisted shared space for couples to an open-ended mystery game and everyday tools, this is where I share projects, experiments, and what I learn along the way.
+I'm **zhouxiang**, an AI builder exploring applications, interactive prototypes, and practical tools.
 
-<a id="projects"></a>
+I like moving from a rough idea to a working experience: defining the interaction, connecting the model, testing the edge cases, and shipping something others can try.
 
-## ✦ Selected Projects
+`DISCOVER` the real problem　·　`PROTOTYPE` the interaction　·　`TEST` the boundaries　·　`SHIP` the experience
 
-<table>
-<tr>
-<td width="50%" valign="top">
+📕 [Xiaohongshu](https://xhslink.cn/o/4z8FhQexdYj) · ✉️ [Email](mailto:3525043496@qq.com) · 🧑‍💻 [All repositories](https://github.com/1545468557?tab=repositories)
 
-### 💬 [Cijian · Our Shared Space](https://github.com/1545468557/cijian-demo)
+---
 
-A shared-memory and AI messaging prototype for long-distance couples, exploring how AI can receive messages while someone is busy and hand conversations back to them.
+<a id="selected-projects"></a>
 
-- Shared memories confirmed by both partners before AI references them
-- Tone memory and handoff of unanswered messages
-- Single-device demo and two-device testing
+## ⭐ Selected projects
 
-`React` `TypeScript` `Cloudflare D1`
+| Project | What it explores | Stack |
+| --- | --- | --- |
+| 💬 [**Cijian · Our Shared Space**](https://github.com/1545468557/cijian-demo) | Shared memories and AI-assisted message handoff for long-distance couples | `React` `TypeScript` `Cloudflare D1` |
+| 🔎 [**Did You Ask the Right Question?**](https://github.com/1545468557/kanshan-game) | A 3D investigation scene with clues and open-ended AI character conversations | `Three.js` `Node.js` `LLM` |
+| 🐾 [**Pet Name Studio**](https://github.com/1545468557/pet-name-studio) | Browse, shortlist, and generate personalized pet names with AI | `JavaScript` `Express` `SQLite` |
+| 🧩 [**Product Deconstruction Skill**](https://github.com/1545468557/product-deconstruction-skill) | Evidence-backed product analysis from screenshots, URLs, or source code | `Agent Skill` `HTML` `Python` |
 
-[Explore project ↗](https://github.com/1545468557/cijian-demo)
+## 🎯 What I focus on
 
-</td>
-<td width="50%" valign="top">
+- **Interactive experiences** — turning abstract ideas into hands-on web and 3D prototypes.
+- **Useful AI behavior** — designing memory, context, role boundaries, and graceful fallbacks around real tasks.
+- **End-to-end delivery** — connecting product thinking, interface design, implementation, and testing.
+- **Reusable methods** — packaging what works into tools, skills, and clear reports.
 
-### 🔎 [Did You Ask the Right Question?](https://github.com/1545468557/kanshan-game)
+## 🔬 Current build loop
 
-An immersive web mystery prototype combining a 3D investigation scene, clue discovery, and open-ended conversations with AI characters.
-
-- Three characters with distinct knowledge boundaries
-- LLM-powered Q&A with scripted fallback dialogue
-- Server-side case scoring; desktop and touch support
-
-`Three.js` `Node.js` `LLM`
-
-[Explore project ↗](https://github.com/1545468557/kanshan-game)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🐾 [Pet Name Studio](https://github.com/1545468557/pet-name-studio)
-
-A web tool for finding pet names, with browsing, filtering, favorites, and personalized AI-generated suggestions.
-
-- Naming strategy, candidate generation, and code-based validation
-- Model API adapters and request-failure fallbacks
-- Browse, shortlist, and save favorite names
-
-`JavaScript` `Express` `SQLite`
-
-[Explore project ↗](https://github.com/1545468557/pet-name-studio)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 [Product Deconstruction Skill](https://github.com/1545468557/product-deconstruction-skill)
-
-An agent skill that turns screenshots, product URLs, or source code into evidence-backed product analysis reports in HTML.
-
-- Analysis across users, technology, models, and data
-- Clear separation of facts, inferences, recommendations, and unknowns
-- Responsive reports with structural and visual-rule checks
-
-`Agent Skill` `HTML` `Python`
-
-[Explore project ↗](https://github.com/1545468557/product-deconstruction-skill)
-
-</td>
-</tr>
-</table>
-
-<a id="toolbox"></a>
-
-## ⌘ Tools & Approach
-
-What I practice through these projects:
-
-- **Interactive experiences** — Turning abstract ideas into hands-on web and 3D prototypes.
-- **AI applications** — Using memory, context, and character boundaries to help models perform concrete tasks.
-- **Reusable methods** — Turning product observations and analysis into skills and reports.
-
-## ↗ Connect
-
-[Email](mailto:3525043496@qq.com) · [Xiaohongshu](https://xhslink.cn/o/4z8FhQexdYj)
-
-<br>
+```text
+observe → define → prototype → test → refine → ship
+```
 
 <p align="center">
-  <sub>Ideas and feedback are welcome in the project Issues.</sub><br>
-  <sub>Build something. Learn something. Keep going.</sub>
+  <code>BUILD SMALL · LEARN FAST · MAKE IT USEFUL</code>
 </p>
