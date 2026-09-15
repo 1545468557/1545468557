@@ -1,87 +1,87 @@
-<h1 align="center">Hi, I'm 1545468557 👋</h1>
+<h1 align="center">Hi, I'm zhouxiang 👋</h1>
 
-<p align="center">AI 应用探索 · 交互原型 · 产品与工具</p>
+<p align="center">AI Builder | Exploring AI applications, interactive prototypes, and practical tools</p>
 
 <p align="center">
-  <a href="#projects">精选项目</a> ·
-  <a href="#toolbox">工具与方法</a> ·
-  <a href="https://github.com/1545468557?tab=repositories">全部仓库</a>
+  <a href="#projects">Selected Projects</a> ·
+  <a href="#toolbox">Tools &amp; Approach</a> ·
+  <a href="https://github.com/1545468557?tab=repositories">All Repositories</a>
 </p>
 
 <a href="#projects">
-  <img src="./assets/profile-header.svg" width="100%" alt="从想法，到作品。探索 AI 交互、产品原型和可复用工具，点击查看精选项目。">
+  <img src="./assets/profile-header.svg" width="100%" alt="Ideas into things. Exploring AI interactions, prototypes, and reusable tools. View selected projects.">
 </a>
 
-我在探索如何把一个想法，做成可以体验的作品。
+I explore how to turn ideas into things people can actually try.
 
-从 AI 参与的关系空间，到可以自由提问的推理游戏，再到日常小工具——这里记录项目、实验，以及过程中沉淀的方法。
+From an AI-assisted shared space for couples to an open-ended mystery game and everyday tools, this is where I share projects, experiments, and what I learn along the way.
 
 <a id="projects"></a>
 
-## ✦ 精选项目
+## ✦ Selected Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💬 [此间 · 我们的关系空间](https://github.com/1545468557/cijian-demo)
+### 💬 [Cijian · Our Shared Space](https://github.com/1545468557/cijian-demo)
 
-面向异地关系的共享记忆与 AI 接待交互原型，探索忙碌时的消息接待和本人回应交接。
+A shared-memory and AI messaging prototype for long-distance couples, exploring how AI can receive messages while someone is busy and hand conversations back to them.
 
-- 双方确认后引用的共同记忆
-- 口吻记忆与未答消息交接
-- 单机体验与双设备测试入口
+- Shared memories confirmed by both partners before AI references them
+- Tone memory and handoff of unanswered messages
+- Single-device demo and two-device testing
 
 `React` `TypeScript` `Cloudflare D1`
 
-[查看项目 ↗](https://github.com/1545468557/cijian-demo)
+[Explore project ↗](https://github.com/1545468557/cijian-demo)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔎 [你是否问到了关键线索](https://github.com/1545468557/kanshan-game)
+### 🔎 [Did You Ask the Right Question?](https://github.com/1545468557/kanshan-game)
 
-沉浸式网页推理游戏原型，将 3D 调查现场、线索探索与大模型角色问答结合起来。
+An immersive web mystery prototype combining a 3D investigation scene, clue discovery, and open-ended conversations with AI characters.
 
-- 三位具有各自知识边界的角色
-- 大模型自由问答与预设台词降级
-- 服务端结案评分，支持桌面与触屏
+- Three characters with distinct knowledge boundaries
+- LLM-powered Q&A with scripted fallback dialogue
+- Server-side case scoring; desktop and touch support
 
 `Three.js` `Node.js` `LLM`
 
-[查看项目 ↗](https://github.com/1545468557/kanshan-game)
+[Explore project ↗](https://github.com/1545468557/kanshan-game)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🐾 [宠物起名事务所](https://github.com/1545468557/pet-name-studio)
+### 🐾 [Pet Name Studio](https://github.com/1545468557/pet-name-studio)
 
-为猫狗等宠物寻找名字的网页工具，提供名字筛选、收藏与 AI 定制起名。
+A web tool for finding pet names, with browsing, filtering, favorites, and personalized AI-generated suggestions.
 
-- 从起名策略到候选生成，再到代码质检
-- 模型接口适配与请求失败降级
-- 浏览、挑选与收藏喜欢的名字
+- Naming strategy, candidate generation, and code-based validation
+- Model API adapters and request-failure fallbacks
+- Browse, shortlist, and save favorite names
 
 `JavaScript` `Express` `SQLite`
 
-[查看项目 ↗](https://github.com/1545468557/pet-name-studio)
+[Explore project ↗](https://github.com/1545468557/pet-name-studio)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧩 [Product Deconstruction Skill](https://github.com/1545468557/product-deconstruction-skill)
 
-从截图、产品网址或源码出发，生成有可追溯证据的产品拆解 HTML 报告。
+An agent skill that turns screenshots, product URLs, or source code into evidence-backed product analysis reports in HTML.
 
-- 用户、技术、模型、数据四层分析
-- 区分事实、推断、建议与未确认项
-- 响应式报告与结构、视觉规则校验
+- Analysis across users, technology, models, and data
+- Clear separation of facts, inferences, recommendations, and unknowns
+- Responsive reports with structural and visual-rule checks
 
 `Agent Skill` `HTML` `Python`
 
-[查看项目 ↗](https://github.com/1545468557/product-deconstruction-skill)
+[Explore project ↗](https://github.com/1545468557/product-deconstruction-skill)
 
 </td>
 </tr>
@@ -89,17 +89,21 @@
 
 <a id="toolbox"></a>
 
-## ⌘ 工具与方法
+## ⌘ Tools & Approach
 
-这些项目把几件事放在一起实践：
+What I practice through these projects:
 
-- **交互体验**：用网页和 3D 场景，把抽象想法做成可操作的原型。
-- **AI 应用**：围绕记忆、上下文与角色边界，让模型参与具体任务。
-- **可复用方法**：把产品观察与分析过程整理成 Skill 和报告。
+- **Interactive experiences** — Turning abstract ideas into hands-on web and 3D prototypes.
+- **AI applications** — Using memory, context, and character boundaries to help models perform concrete tasks.
+- **Reusable methods** — Turning product observations and analysis into skills and reports.
+
+## ↗ Connect
+
+[Email](mailto:3525043496@qq.com) · [Xiaohongshu](https://xhslink.cn/o/4z8FhQexdYj)
 
 <br>
 
 <p align="center">
-  <sub>欢迎通过项目的 Issues 交流想法与建议。</sub><br>
+  <sub>Ideas and feedback are welcome in the project Issues.</sub><br>
   <sub>Build something. Learn something. Keep going.</sub>
 </p>
