@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="#selected-projects">
+  <a href="https://portfolio-1545468557.reyes-iurepux.chatgpt.site">
     <img src="./assets/profile-header.svg" width="100%" alt="zhouxiang AI Build Studio — building useful AI experiences, prototypes, and tools." />
   </a>
 </p>
 
 <p align="center">
-  <sub>Open the build log: ideas, experiments, and selected projects.</sub>
+  <sub>Click the signal board to enter my interactive portfolio and 3D build map.</sub>
 </p>
 
 ## 👋 I turn AI ideas into things people can use
@@ -16,7 +16,7 @@ I like moving from a rough idea to a working experience: defining the interactio
 
 `DISCOVER` the real problem　·　`PROTOTYPE` the interaction　·　`TEST` the boundaries　·　`SHIP` the experience
 
-📕 [Xiaohongshu](https://xhslink.cn/o/4z8FhQexdYj) · ✉️ [Email](mailto:3525043496@qq.com) · 🧑‍💻 [All repositories](https://github.com/1545468557?tab=repositories)
+🌐 [Interactive portfolio](https://portfolio-1545468557.reyes-iurepux.chatgpt.site) · 📕 [Xiaohongshu](https://xhslink.cn/o/4z8FhQexdYj) · ✉️ [Email](mailto:3525043496@qq.com) · 🧑‍💻 [All repositories](https://github.com/1545468557?tab=repositories)
 
 ---
 
