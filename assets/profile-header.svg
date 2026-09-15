@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-labelledby="title description">
+  <title id="title">从想法，到作品。</title>
+  <desc id="description">个人作品集终端：AI 交互、产品原型、可复用工具。</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5f8fc"/><stop offset="1" stop-color="#edf5f2"/></linearGradient>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#d8e1ea"/></pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="998" height="318" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="320" fill="url(#paper)"/>
+    <rect width="1000" height="320" fill="url(#grid)" opacity=".55"/>
+    <rect width="1000" height="46" fill="#f8fafc"/>
+    <path d="M0 46H1000" stroke="#e1e8ef"/>
+    <circle cx="25" cy="23" r="5" fill="#e6aaa5"/>
+    <circle cx="43" cy="23" r="5" fill="#e7cd98"/>
+    <circle cx="61" cy="23" r="5" fill="#a6c9b4"/>
+    <text x="88" y="28" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#8a99ab">~/1545468557/portfolio</text>
+    <text x="957" y="28" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.5" fill="#8a99ab">HELLO, WORLD.</text>
+    <path d="M47 97h22" stroke="#81b19b" stroke-width="2"/>
+    <text x="80" y="102" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="2" fill="#638271">IDEAS INTO THINGS</text>
+    <text x="45" y="173" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-size="45" font-weight="700" letter-spacing="-1" fill="#263a50">从想法，到<tspan fill="#20775c">作品。</tspan></text>
+    <path d="M273 188c57-4 112-4 160 0" stroke="#a2d2bf" stroke-width="5" stroke-linecap="round"/>
+    <text x="48" y="224" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-size="16" fill="#718396">探索 AI 交互、产品原型与可复用工具。</text>
+    <text x="48" y="277" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="1.1" fill="#8d9ca9">BUILD. LEARN. REPEAT.</text>
+    <rect x="586" y="80" width="365" height="208" rx="10" fill="#ffffff" stroke="#dce7e1"/>
+    <path d="M587 116H950" stroke="#e7eee9"/>
+    <text x="609" y="103" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#8b9c91">&gt;_ workspace.log</text>
+    <text x="916" y="103" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8b9c91">zsh</text>
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">
+      <text x="609" y="148" fill="#8ea394">~ % <tspan fill="#52695b">ls projects/</tspan></text>
+      <text x="609" y="178" fill="#a5b4a9">01 <tspan fill="#36775a">AI &amp; interaction</tspan></text>
+      <text x="609" y="205" fill="#a5b4a9">02 <tspan fill="#36775a">Web &amp; prototypes</tspan></text>
+      <text x="609" y="232" fill="#a5b4a9">03 <tspan fill="#36775a">Tools &amp; skills</tspan></text>
+      <text x="609" y="267" fill="#8ea394">~ % <tspan fill="#52695b">make something</tspan></text>
+    </g>
+    <rect x="764" y="255" width="7" height="14" rx="1" fill="#70a990"/>
+  </g>
+  <rect x="1" y="1" width="998" height="318" rx="16" fill="none" stroke="#dfe7ed"/>
+</svg>
