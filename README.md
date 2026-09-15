@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="#explore-mode">
+  <a href="https://portfolio-1545468557.reyes-iurepux.chatgpt.site/">
     <img src="./assets/profile-header.svg" width="100%" alt="zhouxiang AI Build Studio — building useful AI experiences, prototypes, and tools." />
   </a>
 </p>
 
 <p align="center">
-  <sub>AI applications, interactive prototypes, practical tools, and writing.</sub>
+  <sub>Click the signal board to launch my playable 3D Drive.</sub>
 </p>
 
 ## 👋 I turn AI ideas into things people can use
@@ -16,7 +16,7 @@ I like moving from a rough idea to a working experience: defining the interactio
 
 `DISCOVER` the real problem　·　`PROTOTYPE` the interaction　·　`TEST` the boundaries　·　`SHIP` the experience
 
-📕 [Xiaohongshu](https://xhslink.cn/o/4z8FhQexdYj) · ✉️ [Email](mailto:3525043496@qq.com) · 🧑‍💻 [All repositories](https://github.com/1545468557?tab=repositories)
+🎮 [Play 3D Drive](https://portfolio-1545468557.reyes-iurepux.chatgpt.site/) · 📕 [Xiaohongshu](https://xhslink.cn/o/4z8FhQexdYj) · ✉️ [Email](mailto:3525043496@qq.com) · 🧑‍💻 [All repositories](https://github.com/1545468557?tab=repositories)
 
 ---
 
@@ -24,9 +24,11 @@ I like moving from a rough idea to a working experience: defining the interactio
 
 ## 🎮 Explore Mode
 
-<img src="./assets/explore-drive.svg" width="100%" alt="Animated build-map preview with a rover moving between four project signals." />
+<a href="https://portfolio-1545468557.reyes-iurepux.chatgpt.site/">
+  <img src="./assets/explore-drive.svg" width="100%" alt="Open the playable 3D Drive and explore four project signals." />
+</a>
 
-<sub>This animated build map runs directly inside the GitHub README. GitHub blocks JavaScript and keyboard input, so it is a visual game preview rather than a WASD-controlled game.</sub>
+<sub>Click the preview to drive with WASD, boost with Shift, brake with Space, and inspect project signals with E.</sub>
 
 ---
 
