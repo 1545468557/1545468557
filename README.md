@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://portfolio-1545468557.reyes-iurepux.chatgpt.site/">
-    <img src="./assets/profile-header.svg" width="100%" alt="zhouxiang AI Build Studio — building useful AI experiences, prototypes, and tools." />
-  </a>
+  <img src="./assets/profile-header.svg" width="100%" alt="zhouxiang AI Build Studio — building useful AI experiences, prototypes, and tools." />
 </p>
 
 <p align="center">
