@@ -2,10 +2,6 @@
   <img src="./assets/profile-header.svg" width="100%" alt="zhouxiang AI Build Studio — building useful AI experiences, prototypes, and tools." />
 </p>
 
-<p align="center">
-  <sub>Click the signal board to launch my playable 3D Drive.</sub>
-</p>
-
 ## 👋 I turn AI ideas into things people can use
 
 I'm **zhouxiang**, an AI builder exploring applications, interactive prototypes, and practical tools.
