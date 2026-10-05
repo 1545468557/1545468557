@@ -12,6 +12,13 @@ I like moving from a rough idea to a working experience: defining the interactio
 `DISCOVER` the real problem　·　`PROTOTYPE` the interaction　·　`TEST` the boundaries　·　`SHIP` the experience
 🎮 [Play 3D Drive](https://portfolio-1545468557.reyes-iurepux.chatgpt.site/) · 📕 [Xiaohongshu](https://xhslink.cn/o/4z8FhQexdYj) · ✉️ [Email](mailto:3525043496@qq.com) · 🧑‍💻 [All repositories](https://github.com/1545468557?tab=repositories)
 ---
+<a id="explore-mode"></a>
+## 🎮 Explore Mode
+<a href="https://portfolio-1545468557.reyes-iurepux.chatgpt.site/">  
+<img src="./assets/explore-drive.svg" width="100%" alt="Open the playable 3D Drive and explore four project signals." />
+</a>
+<sub>Click the preview to drive with WASD, boost with Shift, brake with Space, and inspect project signals with E.</sub>
+---
 <a id="selected-projects"></a>
 ## ⭐ Selected projects
 | Project | What it explores | Stack |
